@@ -1,3 +1,2 @@
-aiogram==1.4
-time
-sqlite3
+aiogram==2.0
+time==3.7.0
