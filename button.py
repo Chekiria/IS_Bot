@@ -8,7 +8,7 @@ from config_for_button import TOKEN
 
 
 import sqlite3 as lite
-import sys
+
 import time
 
 bot = Bot(token=TOKEN)
